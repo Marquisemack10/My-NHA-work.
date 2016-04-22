@@ -1,0 +1,15 @@
+.stage{
+        background-image: url(https://images.search.yahoo.com/images/view;_ylt=AwrB8ptbJBhXBAIAFwIunIlQ;_ylu=X3oDMTIycWQ0MjVhBHNlYwNzcgRzbGsDaW1nBG9pZANjM2IyMDhiY2U1YjY4YWNiZTJkOTRhNjU0M2Y0OTNkZgRncG9zAzIEaXQDYmluZw--?.origin=&back=https%3A%2F%2Fimages.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dflower%26fr%3Dyhs-mozilla-002%26fr2%3Dpiv-web%26hsimp%3Dyhs-002%26hspart%3Dmozilla%26tab%3Dorganic%26ri%3D2&w=1209&h=806&imgurl=2.bp.blogspot.com%2F-gsJksiAA2Yw%2FUN1r-PbN8sI%2FAAAAAAAADCc%2FzzKOuqedzdk%2Fs1600%2Fwhite-flower-1.jpg&rurl=http%3A%2F%2Fflowers-image.blogspot.com%2F2012%2F12%2Fwhite-flower.html&size=126.2KB&name=White+%3Cb%3EFlower%3C%2Fb%3E&p=flower&oid=c3b208bce5b68acbe2d94a6543f493df&fr2=piv-web&fr=yhs-mozilla-002&tt=White+%3Cb%3EFlower%3C%2Fb%3E&b=0&ni=21&no=2&ts=&tab=organic&sigr=11riq4lq8&sigb=140tsal58&sigi=12rt1m1bp&sigt=10jh9g0ph&sign=10jh9g0ph&.crumb=dhh416F11Bz&fr=yhs-mozilla-002&fr2=piv-web&hsimp=yhs-002&hspart=mozilla);
+    }
+    p.sansserif {
+      font-family: "Comic Sans MS",
+      cursive, sans-serif;
+      color: red;
+                }
+    body {
+       background-color: yellow;
+              }
+    p.solid {
+      border-style: solid;
+       font-size: 200%;
+              }

@@ -1,0 +1,119 @@
+<html>
+<head>
+  <style>
+
+  .star-five {
+     margin-top: 300px;
+     margin-left: 50px;
+     position: absolute;
+     display: inline-block;
+     color: red;
+     width: 0px;
+     height: 0px;
+     border-top: 100px;
+     border-right:  100px solid transparent;
+     border-bottom: 70px  solid white;
+     border-left:   100px solid transparent;
+     -moz-transform:    rotate(35deg);
+     -webkit-transform: rotate(35deg);
+     -ms-transform:     rotate(35deg);
+     -o-transform:      rotate(35deg);
+     z-index: 2;
+  }
+  .star-five:before {
+     border-bottom: 80px solid white;
+     border-left: 30px solid transparent;
+     border-right: 30px solid transparent;
+     position: absolute;
+     height: 0;
+     width: 0;
+     top: -45px;
+     left: -65px;
+     display: block;
+     content: '';
+     -webkit-transform: rotate(-35deg);
+     -moz-transform:    rotate(-35deg);
+     -ms-transform:     rotate(-35deg);
+     -o-transform:      rotate(-35deg);
+      z-index: 2;
+
+  }
+  .star-five:after {
+     position: absolute;
+     display: block;
+     color: red;
+     top: 3px;
+     left: -105px;
+     width: 0px;
+     height: 0px;
+     border-right: 100px solid transparent;
+     border-bottom: 70px solid white;
+     border-left: 100px solid transparent;
+     -webkit-transform: rotate(-70deg);
+     -moz-transform:    rotate(-70deg);
+     -ms-transform:     rotate(-70deg);
+     -o-transform:      rotate(-70deg);
+     content: '';
+      z-index: 2;
+  }
+
+  .blue-triangle-right {
+	width: 0;
+	height: 0;
+	border-top: 370px solid transparent;
+	border-left: 700px solid blue;
+	border-bottom: 370px solid transparent;
+  position: absolute;
+  z-index: 1;
+}
+  .red-stripe1 {
+    width: 1500px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    z-index: 0;
+  }
+  .White-stripe1 {
+    margin-top:100px;
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    position: relative;
+    z-index: 0;
+  }
+  .red-stripe2 {
+    margin-top: 100px;
+    width: 1500px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    z-index: 0;
+  }
+  .red-stripe3 {
+    margin-top: 120px;
+    width: 1500px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    z-index: 0;
+  }
+  .red-stripe4 {
+    margin-top: 120px;
+    width: 1500px;
+    height: 100px;
+    background-color: red;
+    position:relative;
+    z-index: 0;
+  }
+
+    </style>
+  </head>
+<body>
+  <div class="star-five">              </div>
+  <div class=blue-triangle-right> </div>
+  <div class=red-stripe1>         </div>
+  <div class=red-stripe2>         </div>
+  <div class=red-stripe3>         </div>
+  <div class=red-stripe4>         </div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="part 1.css">
+</head>
+<body>
+<p class="sansserif"> <font size="6"> Pursuit of happiness </font> </p>
+    <img src="https://laurettaanselmi.files.wordpress.com/2012/05/the-pusuit-of-happyness.jpg" style="width:500px;height:500px;"  >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/89Kq8SDyvfg" frameborder="0" allowfullscreen></iframe>
+      <p class="solid">  Plot </p>
+
+    <p > <h3> Life is a struggle for single father Chris Gardner (Will Smith). Evicted from their apartment, he and his young son (Jaden Christopher Syre Smith) find themselves alone with no place to go. Even though Chris eventually lands a job as an intern at a prestigious brokerage firm, the position pays no money. The pair must live in shelters and endure many hardships, but Chris refuses to give in to despair as he struggles to create a better life for himself and his son.</p>
+
+      <p> <h1> characters</h2> </p>
+
+    <img src="http://ia.media-imdb.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UY317_CR2,0,214,317_AL_.jpg" style="width:128px;height:128px;">
+        <li> Will Smith</li>
+    <img src="http://www3.pictures.gi.zimbio.com/Pursuit+Happyness+Rome+Premiere+UFtnLdVHM4Wl.jpg" style="width:138px;height:128px;">
+        <li> Jaden Smith</li>
+    <img src="http://www.bet.com/topics/t/thandie-newton/_jcr_content/topicintro.topicintro.dimg/040312-topics-celebs-thandie-newton.jpg" style="width:188px;height:128px;">
+        <li> Thandie Newton</li>
+      <br>
+
+</body>
+</html>
